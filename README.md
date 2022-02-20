@@ -16,12 +16,13 @@ You’ll make the following updates to the provided Python file for this assignm
 
 ---
 
-## Result 
+
+## PyChain Ledger Result 
 
 ## Streamlit application
 
 
-## ![Streamlit screenshot]()
+## ![Streamlit screenshot](https://github.com/juliannehiew/PyChain-Ledger/blob/main/Images/PyChain%20stored%20records.JPG)
 
 
 Correspondingly, values for the sender, receiver, and amount are entered as above.  Once 'Add Block' button is clicked, the block is stored in the ledger.  This step is repeated several times to store several blocks in the ledger.  
