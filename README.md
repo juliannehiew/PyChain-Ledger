@@ -29,4 +29,4 @@ Correspondingly, values for the sender, receiver, and amount are entered as abov
 
 Besides this, block contents and hashes are located in the Streamlit drop-down menu on the left side of the screen.  This provides detail of blockchain that consists of multiple blocks.
 
-To conclude, the chain is being validated as 'True'.  Therefore, the PyChain Ledger is successful by storing these records.
+To conclude, the chain is being validated as 'True'.  Therefore, the blocks are aligned and the PyChain is valid.
